@@ -1,6 +1,5 @@
-import mongoose, { Document } from "mongoose"
+import mongoose, { Document, Schema } from "mongoose"
 
-const Schema = mongoose.Schema
 
 enum Role{
     Student = "student",

@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Tutor decodes",
+  title: "Mero LMS",
   description: "Your one stop destination for learning Computer Science and Programming",
 };
 
