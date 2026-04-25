@@ -1,6 +1,5 @@
 import mongoose, { Document,Schema } from "mongoose";
 
-
 interface ILesson extends Document {
     course: mongoose.Types.ObjectId,
     title: string,
